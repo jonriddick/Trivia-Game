@@ -1,0 +1,20 @@
+body {
+	background-color: tan;
+	color: ;
+}
+
+.jumbotron {
+	box-sizing: border-box;
+	height: 800px;
+	background-color: rgba(0, 0, 0, 0);
+}
+.introText {
+	font-size: 20px;
+}
+
+h1 {
+	color: red;
+}
+.mainArea {
+	color: ;
+} 
